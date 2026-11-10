@@ -237,17 +237,6 @@ Additional LeetCode, GeeksforGeeks, HackerRank, and CodeChef profile links can b
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHOK3365&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-
-## Contribution Activity
-
-<div align="center">
-
 <img src="https://ghstats.dev/api/sparkline?username=ASHOK3365&days=90&width=800&height=180&line_color=A78BFA&fill_color=312E81&hide_border=true" />
 
 </div>
