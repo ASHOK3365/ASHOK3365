@@ -204,26 +204,32 @@ Additional LeetCode, GeeksforGeeks, HackerRank, and CodeChef profile links can b
 
 ---
 
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ASHOK3365&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=818CF8&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHOK3365&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Top languages" />
+<img height="180" src="https://ghstats.dev/api/card?username=ASHOK3365&bg=0D1117&text=E5E7EB&title_color=A78BFA&icon_color=818CF8&border_color=312E81&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=ASHOK3365&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" alt="GitHub streak statistics" />
+<img height="180" src="https://ghstats.dev/api/langs?username=ASHOK3365&theme=midnight&layout=compact&max_langs=8&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=ASHOK3365&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF" />
 
 </div>
-
 ---
 
-## GitHub Trophies
+## Developer Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ASHOK3365&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
+<img src="https://ghstats.dev/api/mini?username=ASHOK3365&metric=stars&color=8B5CF6&style=for-the-badge" />
+
+<img src="https://ghstats.dev/api/mini?username=ASHOK3365&metric=commits&color=6D28D9&style=for-the-badge" />
+
+<img src="https://ghstats.dev/api/mini?username=ASHOK3365&metric=contributions&color=4F46E5&style=for-the-badge" />
 
 </div>
+
 
 ---
 
@@ -237,18 +243,25 @@ Additional LeetCode, GeeksforGeeks, HackerRank, and CodeChef profile links can b
 
 ---
 
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/sparkline?username=ASHOK3365&days=90&width=800&height=180&line_color=A78BFA&fill_color=312E81&hide_border=true" />
+
+</div>
+
+
+---
 ## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ASHOK3365/ASHOK3365/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/ASHOK3365/ASHOK3365/output/github-contribution-grid-snake.svg" />
 
 </div>
-
-> To enable the snake animation, configure a GitHub Actions workflow in the profile repository to generate and publish the `output` branch.
-
 ---
-
 ## Current Focus
 
 ```yaml
@@ -280,8 +293,7 @@ open_to:
 <div align="center">
 
 <a href="https://github.com/ASHOK3365"><img src="https://img.shields.io/badge/GitHub-ASHOK3365-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-
+<a href="https://www.linkedin.com/in/yeddula-ashok-b9b6352a5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </div>
 
 ---
